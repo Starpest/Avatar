@@ -247,4 +247,10 @@
 	<content contentuid="h45c4f9cegceb8g42a8gbaf3g0f862b6ba533" version="1">Toggles the frost patches vfx.</content>
 	<content contentuid="hc99ebcd0gdb76g49c5g919fge994a5103f2d" version="1">Toggles the electrical noise vfx.</content>
 	<content contentuid="hf12589adga827g4c2ag8ca7g726c3b8cdb06" version="1">Toggles the windy feet vfx.</content>
+<!--AreaSpells-->
+	<content contentuid="h7f1b2cafgf29fg4886g81eeg42a48387719c" version="1">Area Spell Placeholder</content>
+	<content contentuid="hd63daf24g08cbg458dg8532gc41df629c501" version="1">Consecration: Fire</content>
+	<content contentuid="h45c4f9cegceb8g42a8gbaf3g0f862b6ba533" version="1">Purge the area in a [1] radius, setting the land ablaze with HOLY FIRE.</content>
+	<content contentuid="hc99ebcd0gdb76g49c5g919fge994a5103f2d" version="1">Restoration: Water</content>
+	<content contentuid="hf12589adga827g4c2ag8ca7g726c3b8cdb06" version="1">Summon a wave of purifying water in a [1] cone, healing allies and pushing back enemies.</content>
 </contentList>
