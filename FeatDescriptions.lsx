@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="FeatDescriptions">
+        <node id="root">
+            <children>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h229808b7g2620g48b5g86b1gd966c9ce7540" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h21092c38g4bb4g4affg9eddg6fa80f088678" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ElementalInvoker"/>
+                    <attribute id="FeatId" type="guid" value="b218bc8c-20c7-42e1-9002-9c8b84533e21"/>
+                    <attribute id="UUID" type="guid" value="bff0c603-b451-47f0-b549-08596324ff10"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h6d0103f8gbe4ag4a43g9365g07ad0a688495" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1fb6df94gf8d8g4b34g857fg47aef50bc6bb" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ElementalAttunement"/>
+                    <attribute id="FeatId" type="guid" value="3c5f5b91-df08-4915-974e-67011c1fbdba"/>
+                    <attribute id="UUID" type="guid" value="03e5bfb5-761a-4a7c-b442-3c06ef10265c"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

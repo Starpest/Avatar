@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="ElementalInvoker"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ElementalFury;ElementalInstinct"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5717d6d1-51fe-49dd-806a-0eb19ada2c2b,4,0,MESSPELLS,Wisdom,None,AlwaysPrepared,,c4598bdb-fc07-40dd-a62c-90cc138bd76f);AddSpells(42a9ba4f-71b8-4c45-8666-e67f8cf6c47e,,Wisdom,,,,c4598bdb-fc07-40dd-a62c-90cc138bd76f);SelectPassives(3d91d5d6-8b80-4d0a-9827-689e94a6836a,1)"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                    <attribute id="UUID" type="guid" value="b218bc8c-20c7-42e1-9002-9c8b84533e21"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="ElementalAttunement"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(72d5ef73-4000-4c7a-9324-ea5beb4fe87c,1)"/>
+                    <attribute id="UUID" type="guid" value="3c5f5b91-df08-4915-974e-67011c1fbdba"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>
+
