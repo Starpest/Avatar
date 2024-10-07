@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+<!--Passive-->
+	<content contentuid="h5c7e03c1g4882g4c15g8af9g0bbe995fd75e" version="1">Elemental Fury</content>
+	<content contentuid="h709dd7c2g0ac1g4b10ga99fgaf0c91843f34" version="1">The elements rage within you, allowing you to invoke their powers.</content>
+	<content contentuid="h73cb03d6g697dg4f05g811cgfd628b294dc3" version="1">Elemental Instinct</content>
+	<content contentuid="hba3c6392g19f7g48b8g982cg27cd9a2fa080" version="1">Once per long rest, if you would fall below a third of your hit points after suffering an attack, enter the &lt;LSTag Type="Status" Tooltip="AVATARSTATE"&gt;Avatar State&lt;/LSTag&gt;.</content>
+<!--FirePassives-->
+	<content contentuid="h13dd4035gbe28g42a9gb7acgbf3ad0075f79" version="1">Cinderous Soul</content>
+	<content contentuid="h6e9c3dbag78b6g426agbf32g914e431138bf" version="1">Your soul is pure Fire, &lt;LSTag Type="Status" Tooltip="BURNING_MES"&gt;Scorching&lt;/LSTag&gt; enemies that are close and granting you &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Fear&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blindness&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and [1]. You cannot be Enwebbed, Entangled or Ensnared.</content>
+	<content contentuid="h3b72b3dcg61e5g49cbgaeb0g840f493f9cb2" version="2">Raging Flames</content>
+	<content contentuid="h85899187g024dg4502gbb3fg15cd4c2aa8a6" version="4">You inflict [1] with spells and attacks. When you deal [2], the target must succeed a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or begin &lt;LSTag Type="Status" Tooltip="BURNING_SOULFIRE"&gt;Burning&lt;/LSTag&gt;.</content>
+<!--ColdPassives-->
+	<content contentuid="h8533982agd74fg4fc7g815fg6d88c3575d30" version="1">Crystalline Constitution</content>
+	<content contentuid="he19a3eebg138cg4474ga0a5g0f186edb8f4b" version="1">Your skin becomes icy crystal, reducing the damage from all sources and increasing your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 2. You are &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to [1].</content>
+	<content contentuid="h86b809f5g06adg45e7g8a15ga0ae592e9017" version="1">Abyss Walker</content>
+	<content contentuid="h6e72f4aega0aag4b21g98a1g22d6d79d7b49" version="1">You inflict [1] with spells and attacks. When you deal [2] you also inflict &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Frostbite&lt;/LSTag&gt;. Enemies find it &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;difficult&lt;/LSTag&gt; to approach you and are inflicted with &lt;LSTag Type="Status" Tooltip="MES_FROST"&gt;Abyssal Frost&lt;/LSTag&gt; every turn.</content>
+<!--LightningPassives-->
+	<content contentuid="hd03b1fe6gce56g4db1g8518g23633d0236eb" version="1">Electric Embrace</content>
+	<content contentuid="he43815c4g6505g4df5gb085gd9fab2ff59b3" version="1">Lightning courses through your veins, granting you doubled &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;, an additional &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shock&lt;/LSTag&gt; and [1].</content>
+	<content contentuid="h0f441edcgb311g43ffga653gca72449e028b" version="1">Eye of the Storm</content>
+	<content contentuid="h07e9c58cgc27fg405agbbebg1accbf86b344" version="1">You inflict [1] with spells and attacks. When you deal [2], the target must succeed a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;Electrocuted&lt;/LSTag&gt;. &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shock&lt;/LSTag&gt; enemies around you in combat.</content>
+<!--ThunderPassives-->
+	<content contentuid="h10874c5eg9c6ag4da1ga328g6ef1fccb3cae" version="1">Thundering Tempest</content>
+	<content contentuid="h8a1dd0d8gf2e9g434eg8135g71ccb7a59621" version="1">Your body echoes a maelstrom of wind and thunder, granting you &lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;Freedom of Movement&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Flight&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to [1]. You cannot take fall damage.</content>
+	<content contentuid="h35bc7474ga954g48bega716g471f01a89406" version="1">Echoing Calamity</content>
+	<content contentuid="h9e0a1a91gd191g43b3gbdb1g3e6876a3ff80" version="1">You inflict [1] with spells and attacks. When you deal [2], the target must succeed a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or it is inflicted with &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;. &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blind&lt;/LSTag&gt; enemies around you in combat.</content>
+<!--AvatarStatePassives-->
+	<content contentuid="he06e4010g9754g4c04gbbb0g6b8ca98ac701" version="1">Elemental Harmony</content>
+	<content contentuid="hc81d25fdg0bf5g4f39gb085g97ac7ed779a8" version="1">Become &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to physical damage for [1] turns. You gain an additional &lt;LSTag Tooltip="Action"&gt;Action&lt;/LSTag&gt; and heal for [2] at the start of every turn.</content>
+	<content contentuid="h0fd192cegb575g4c70g8a16g30257b554094" version="1">Elemental Chaos</content>
+	<content contentuid="h6f501b60gc4b9g45a9ga116gf56cc91c8907" version="1">Your spells and attacks deal an additional [1], your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; threshold is reduced by [2], and you can cast &lt;LSTag Type="Spell" Tooltip="MES_AVATARCont"&gt;Primaeval Spells&lt;/LSTag&gt;. Enemies around you are inflicted with &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Fear&lt;/LSTag&gt;.</content>
+<!---->
+<!--Status Boost Fire-->
+	<content contentuid="h233ea5eag680dg4242g8ee4g9db0090bc803" version="1">Searing Heat</content>
+	<content contentuid="hab11c606g948ag44bbg8645gc2453ff0eac2" version="3">Affected entity has invoked the element of Fire. Spells and Attacks deal an additional [1] for [2] turns.</content>
+<!--Status Boost Cold-->
+	<content contentuid="hed0b83c7g5ef4g49b0gb24agebd0ac247fe3" version="1">Freezing Frost</content>
+	<content contentuid="h1a2fa686gcad9g4e5cgb38age1a24e8eaf5e" version="3">Affected entity has invoked the element of Cold. Spells and Attacks deal an additional [1] for [2] turns.</content>
+<!--Status Boost Lightning-->
+	<content contentuid="h02dddf6bg42fcg4df7gbda1g4211d56b2203" version="1">Charged Lightning</content>
+	<content contentuid="h7c70dc81g685eg4204ga58bg772f07983b2f" version="3">Affected entity has invoked the element of Lightning. Spells and Attacks deal an additional [1] for [2] turns.</content>
+<!--Status Boost Thunder-->
+	<content contentuid="h83869e1ag482eg49d5ga8ccgbdfbeada74e5" version="1">Crashing Thunder</content>
+	<content contentuid="h0b914c10gcfcfg458dg99e7g21b6e26dad75" version="3">Affected entity has invoked the element of Thunder. Spells and Attacks deal an additional [1] for [2] turns.</content>
+<!--Status Boost AvatarFire-->
+	<content contentuid="h6e8fd860g2f5eg4e1cgb3c1g2bc8ff683bff" version="1">Avatar of Fire</content>
+	<content contentuid="h2636199fgdf71g49b4gb764g67d690a001a3" version="3">Ignite your &lt;LSTag Type="Passive" Tooltip="CINDERSOUL"&gt;Soul&lt;/LSTag&gt; and gain &lt;LSTag Type="Passive" Tooltip="AVATARPASSIVESFIRE"&gt;Raging Flames&lt;/LSTag&gt;.</content>
+<!--Status Boost AvatarCold-->
+	<content contentuid="h9205eb88gc1c2g4d56g9981g4f43cfb0dc86" version="1">Avatar of Frost</content>
+	<content contentuid="he39300d8gbfa1g4ae6g8f1dgf9b0e90809a7" version="3">Freeze your &lt;LSTag Type="Passive" Tooltip="ICYSKIN"&gt;Skin&lt;/LSTag&gt; and gain &lt;LSTag Type="Passive" Tooltip="AVATARPASSIVESCOLD"&gt;Abyss Walker&lt;/LSTag&gt;.</content>
+<!--Status Boost AvatarLightning-->
+	<content contentuid="h7c784ac4g2fa9g44dbg86d3g3eadf62ea032" version="1">Avatar of Lightning</content>
+	<content contentuid="h2ccbaa66ga807g4f92ga42bg3e32d065d5b8" version="3">Electrify your &lt;LSTag Type="Passive" Tooltip="ELECTRICEMBRACE"&gt;Blood&lt;/LSTag&gt; and gain &lt;LSTag Type="Passive" Tooltip="AVATARPASSIVESLIGHTNING"&gt;Eye of the Storm&lt;/LSTag&gt;.</content>
+<!--Status Boost AvatarThunder-->
+	<content contentuid="h1bc573c7gb038g4404ga62cgc232b200cf50" version="1">Avatar of Thunder</content>
+	<content contentuid="h9f46ec8dgdacag4d57g8734gfd4b1afc1a89" version="3">Free your &lt;LSTag Type="Passive" Tooltip="THUNDERTEMPEST"&gt;Body&lt;/LSTag&gt; and gain &lt;LSTag Type="Passive" Tooltip="AVATARPASSIVESTHUNDER"&gt;Echoing Calamity&lt;/LSTag&gt;.</content>
+<!--Spell Invoke/Attune-->
+	<content contentuid="h667364fcgefa7g4ef2ga84cg820e2f1c07f3" version="2">Invoke Elements</content>
+	<content contentuid="h0d79b818g6c67g4305g93f1gfd4a6f5b3d24" version="6">Invoke &lt;LSTag Type="Status" Tooltip="FREEZINGCOLD"&gt;Freezing Frost&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SEARINGHEAT"&gt;Searing Heat&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="CHARGEDLIGHTNING"&gt;Charged Lightning&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="BOOMINGTHUNDER"&gt;Crashing Thunder&lt;/LSTag&gt; and damage nearby foes.</content>
+	<content contentuid="h0d0758dfg514eg430cgb135g5823bd9c152f" version="2">Attune Element</content>
+	<content contentuid="hfc9f160cga1e1g416bg8b89g6a4970293177" version="6">Attune with  element you have &lt;LSTag Type="Spell" Tooltip="Shout_MES_Invoke"&gt;Invoked&lt;/LSTag&gt; to become an avatar of &lt;LSTag Type="Status" Tooltip="AVATARSTATECOLD"&gt;Cold&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="AVATARSTATEFIRE"&gt;Fire&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="AVATARSTATELIGHTNING"&gt;Lightning&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="AVATARSTATETHUNDER"&gt;Thunder&lt;/LSTag&gt;.</content>
+<!--Spell InvokeFire-->
+	<content contentuid="h923f17e3gc52dg4390g807fg785e491250f8" version="2">Invocation of Fire</content>
+	<content contentuid="h59687afegdefag4712g9feag11ed7a1ed299" version="2">Explode with elemental energy for [2], gain &lt;LSTag Type="Status" Tooltip="SEARINGHEAT"&gt;Searing Heat&lt;/LSTag&gt; for [1] turns.</content>
+<!--Spell InvokeCold-->
+	<content contentuid="h0e839006g8923g498agac4eg84b56aa99ccb" version="2">Invocation of Cold</content>
+	<content contentuid="h79df6ce4g91fdg4569g8980g391c6c45216c" version="2">Explode with elemental energy for [2], gain &lt;LSTag Type="Status" Tooltip="FREEZINGCOLD"&gt;Freezing Frost&lt;/LSTag&gt; for [1] turns.</content>
+<!--Spell InvokeLightning-->
+	<content contentuid="hd07a33fegb577g443cg9f85g551fa9b9923e" version="2">Invocation of Lightning</content>
+	<content contentuid="h8dab6465g220cg47adgbfc2g435571125020" version="2">Explode with elemental energy for [2], gain &lt;LSTag Type="Status" Tooltip="CHARGEDLIGHTNING"&gt;Charged Lightning&lt;/LSTag&gt; for [1] turns.</content>
+<!--Spell InvokeThunder-->
+	<content contentuid="hd2f7adebgf779g47fdg906egb7a75775ba6e" version="2">Invocation of Thunder</content>
+	<content contentuid="hb6f04ffbg7854g47f1g955cg3370e3313abb" version="2">Explode with elemental energy for [2], gain &lt;LSTag Type="Status" Tooltip="BOOMINGTHUNDER"&gt;Crashing Thunder&lt;/LSTag&gt; for [1] turns.</content>
+<!--Spell Invoke Avatar State-->
+	<content contentuid="h020a290bg014fg4ec9g9262g4a53e0d9ecf5" version="1">Elemental Avatar</content>
+	<content contentuid="h291fff29g148dg4b0ag95aeg0a8d6151c03c" version="3">Allow &lt;LSTag Type="Status" Tooltip="AVATARSTATECOLD"&gt;Cold&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="AVATARSTATEFIRE"&gt;Fire&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="AVATARSTATELIGHTNING"&gt;Lightning&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="AVATARSTATETHUNDER"&gt;Thunder&lt;/LSTag&gt; to flow through you to gain Elemental &lt;LSTag Type="Passive" Tooltip="ELEMENTALHARMONY"&gt;Harmony&lt;/LSTag&gt; and &lt;LSTag Type="Passive" Tooltip="ELEMENTALCHAOS"&gt;Chaos&lt;/LSTag&gt;.</content>
+<!--Avatar State Status Tooltip-->
+	<content contentuid="h06786ffcg3535g4e95ga72dg4f8709d0c334" version="1">Elemental Avatar</content>
+	<content contentuid="h3fa01e08gfd60g4221g9be1g71436bea79df" version="3">Affected entity has become a vessel for primordial forces, gaining Elemental &lt;LSTag Type="Passive" Tooltip="ELEMENTALHARMONY"&gt;Harmony&lt;/LSTag&gt; and &lt;LSTag Type="Passive" Tooltip="ELEMENTALCHAOS"&gt;Chaos&lt;/LSTag&gt;.</content>
+	<content contentuid="hc2396745gf833g4d2fg953fg5c98862c3a54" version="2">Expel Elements</content>
+	<content contentuid="h7ea07866g40ffg48a2gb442g3a6a64bd5e25" version="6">Revoke the elements you are attuned to, causing a shockwave to erupt from your body for [1]. This action will end your Avatar State(s).</content>
+<!--AvatarSpells-->
+	<content contentuid="h9ba0ca18gcb18g43a5gb055g4920e24481aa" version="2">Primaeval Spells</content>
+	<content contentuid="h55dbad1fg210dg4ba9gb6e0gaf0ec84635e8" version="2">Command ancient primordial forces to cast &lt;LSTag Type="Spell" Tooltip="Projectile_MES_Fireball"&gt;Flames of the Fifth Phoenix&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_MES_IceStorm"&gt;Shriek of the Sixth Summit&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Projectile_MES_ChainLightning"&gt;Strike of the Seventh Storm&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Shout_MES_DestructiveWave"&gt;Eye of the Eighth Ego&lt;/LSTag&gt;</content>
+	<content contentuid="hed076f92gd336g4aa1ga03egbb35491df22d" version="2">Eye of the Eighth Ego</content>
+	<content contentuid="h180c8786gcb2eg40b1gbb1egc559f4652ffb" version="7">Emit a shockwave of thunder that damages nearby creatures and knocks them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h373d20b4g5aefg48e7ga9b4g8f1a7e81fe15" version="4">Strike of the Seventh Storm</content>
+	<content contentuid="h7607fd2eg4d0ag46dfga773gd3083168460b" version="6">Strike an enemy with lightning. Six more bolts will leap from the target, electrifying as many as six other enemies within [1].</content>
+	<content contentuid="h5cf0b3a8g1edbg47ffg928cg14af5d84da97" version="2">Shriek of the Sixth Summit</content>
+	<content contentuid="hfdec10a7ga819g4711gbe1ag728f88158336" version="2">Fangs of ice and hail crash from the sky and freeze the area, leaving icy terrain for 2 turns and applying &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Frostbite&lt;/LSTag&gt; to foes.</content>
+	<content contentuid="hee782e37gd31fg4f00g823dg2532651c949b" version="2">Flames of the Fifth Phoenix</content>
+	<content contentuid="hce6300e5g9284g44dbg84f9g7f52e27ddf6f" version="1">Shoot a bright flame from your fingers that explodes upon contact, &lt;LSTag Type="Status" Tooltip="BURNING_MES"&gt;Scorching&lt;/LSTag&gt; everything in the vicinity.</content>
+<!--MoreMonkSpells-->
+<!--ElementalGaze-->
+	<content contentuid="h4849cb45g48e2g4e51ga483g911f9b10fc82" version="3">Elemental Focus</content>
+	<content contentuid="h75fa6a87ged31g47dcg9178ge413052a8c92" version="5">Focus elemental energy to gain a unique boon and &lt;LSTag Type="Status" Tooltip="FREEZINGCOLD"&gt;Freezing Frost&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SEARINGHEAT"&gt;Searing Heat&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="CHARGEDLIGHTNING"&gt;Charged Lightning&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="BOOMINGTHUNDER"&gt;Crashing Thunder&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h6fe9a45fg141bg4926g9694gaf9b0f486c0d" version="3">Freezing Focus</content>
+	<content contentuid="hbbccca4dgbd1ag4c83ga7c8g429af8004138" version="5">Increase your Armour Class by [1] and become resistant to physical damage for 1 turn.&lt;br&gt;&lt;Br&gt;Gain &lt;LSTag Type="Status" Tooltip="FREEZINGCOLD"&gt;Freezing Frost&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h7cd86a62g09e0g439bga39eg1446e06faa94" version="3">Searing Focus</content>
+	<content contentuid="he5bd7d06gc4ccg4c3ag98beg96be7c5fd82f" version="5">Your attacks are guaranteed critical hits for 1 turn.&lt;br&gt;&lt;Br&gt;Gain &lt;LSTag Type="Status" Tooltip="SEARINGHEAT"&gt;Searing Heat&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h3a517c11gb52eg499ag9b85g9c0600c2347e" version="3">Lightning Focus</content>
+	<content contentuid="ha45e70aag48c3g440dg9dd7g59ff17db93d3" version="5">Attacks made against you have disadvantage for 1 turn.&lt;br&gt;&lt;Br&gt;Gain &lt;LSTag Type="Status" Tooltip="CHARGEDLIGHTNING"&gt;Charged Lightning&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h25d0c67dg98b4g4736g93cbg06e128cea19b" version="3">Thundering Focus</content>
+	<content contentuid="h82c03ae9gae93g490fg982ag550d34955e09" version="5">All of your ability checks are made with advantage for 1 turn.&lt;br&gt;&lt;Br&gt;Gain &lt;LSTag Type="Status" Tooltip="BOOMINGTHUNDER"&gt;Crashing Thunder&lt;/LSTag&gt; for 2 turns.</content>
+<!--ElementalStrike-->
+	<content contentuid="h6406f913g807cg4f92g9cd4g1f7ebfce4dd7" version="3">Elemental Strike</content>
+	<content contentuid="h494439e9g67b6g40e1g9d52g8331eb56a376" version="5">Teleport to a target and strike them with your weapon, infused with an element you have invoked or attuned.</content>
+	<content contentuid="h94f7aa9fga799g459ega038g0fcb8028779a" version="3">Unarmed Elemental Strike</content>
+	<content contentuid="h1b2f99a7gd38cg42b4g8846gad88a83c9a5c" version="5">Teleport to a target and strike them with your fist, infused with an element you have invoked or attuned.</content>
+	<content contentuid="h40404142g2b54g4eddg8eadg77216b0bdbfd" version="3">Freezing Strike</content>
+	<content contentuid="h0b3336d2g3a0dg4c0bgab59ga4241900544f" version="5">Teleport and &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Frostbite&lt;/LSTag&gt; a target.&lt;br&gt;&lt;Br&gt;Requires &lt;LSTag Type="Status" Tooltip="FREEZINGCOLD"&gt;Freezing Frost&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="AVATARSTATECOLD"&gt;Cold Attunement&lt;/LSTag&gt;.</content>
+	<content contentuid="h521b4bacgfa0dg47a0g8ff3gb4a0dc513f5d" version="3">Searing Strike</content>
+	<content contentuid="h882e3334geba5g45b6gbe19gd170174b65b4" version="5">Teleport and &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burn&lt;/LSTag&gt; a target.&lt;br&gt;&lt;Br&gt;Requires &lt;LSTag Type="Status" Tooltip="SEARINGHEAT"&gt;Searing Heat&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="AVATARSTATEFIRE"&gt;Fire Attunement&lt;/LSTag&gt;.</content>
+	<content contentuid="h3b379957g99efg44bcgadbbg855684901dad" version="3">Shocking Strike</content>
+	<content contentuid="hc8ace9c4g435ag4a50gbb7eg9e8f6f23a1b6" version="5">Teleport and &lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;Electrocute&lt;/LSTag&gt; a target.&lt;br&gt;&lt;Br&gt;Requires &lt;LSTag Type="Status" Tooltip="CHARGEDLIGHTNING"&gt;Charged Lightning&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="AVATARSTATELIGHTNING"&gt;Lightning Attunement&lt;/LSTag&gt;.</content>
+	<content contentuid="h286833c3g9d0dg4941gabc0g13d23f52bcee" version="3">Thundering Strike</content>
+	<content contentuid="h2d98816eg94bdg444agbc4eg398ee98d6191" version="5">Teleport and &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberate&lt;/LSTag&gt; a target.&lt;br&gt;&lt;Br&gt;Requires &lt;LSTag Type="Status" Tooltip="BOOMINGTHUNDER"&gt;Crashing Thunder&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="AVATARSTATETHUNDER"&gt;Thunder Attunement&lt;/LSTag&gt;.</content>
+<!--ElementalArts-->
+	<content contentuid="h4bf29a47g6aedg4984gb015ged97767ee1d2" version="3">Fists of Frost and Fire</content>
+	<content contentuid="he3b31a13g15a3g4321ga22fg40b65085cbbf" version="5">Perform two unarmed &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; to rapidly strike with bursts of elemental energy. Gain either &lt;LSTag Type="Status" Tooltip="FREEZINGCOLD"&gt;Freezing Frost&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="SEARINGHEAT"&gt;Searing Heat&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="hb23717aeg0916g4ad8gab85g7d24821f43c5" version="1">Fires of the Blazing Sun</content>
+	<content contentuid="h1bacba48g407cg49adga5b9gc289a71f51c7" version="1">Rapidly strike a target area with two blasts of fire energy, creating a fire surface in a 1m zone.&lt;br&gt;&lt;Br&gt;Gain &lt;LSTag Type="Status" Tooltip="SEARINGHEAT"&gt;Searing Heat&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h6899d78dge45dg415ega19cg83b1c4bd3d64" version="1">Frost of the Waning Moon</content>
+	<content contentuid="hd9033f7cg71f3g4062g88a6gaf789dea0716" version="1">Rapidly strike a target area with two shards of cold energy, creating a frozen surface in a 1m zone.&lt;br&gt;&lt;Br&gt;Gain &lt;LSTag Type="Status" Tooltip="FREEZINGCOLD"&gt;Freezing Frost&lt;/LSTag&gt; for 2 turns.</content>
+
+<!--AirAbilities-->
+	<content contentuid="h6af17a91g45ceg4a9egbeb4g1ffbebd07cf3" version="2">Elemental Bending: Air</content>
+	<content contentuid="h8a1a2bf1g757fg457dga080g560e6a14da65" version="2">Bend the element of Air to cast &lt;LSTag Type="Spell" Tooltip="Target_MES_Invisibility"&gt;Invisibility&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="MES_Throw"&gt;Throw&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_MES_Pull"&gt;Pull&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_MES_Fog"&gt;Fog&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_MES_ElectrifiedCloud"&gt;Stormcloud&lt;/LSTag&gt;.</content>
+	<content contentuid="hf23527fcg9583g404fg813eg0cc13a33aee8" version="2">Bend Air: Throw</content>
+	<content contentuid="h407d00cdgdbf4g4ae6ga898ge6c1f59731ee" version="5">Throw a creature or object up to [1] by bending the air around it.</content>
+	<content contentuid="h60f16cb5ga4d6g41ebgb8bfgf8d03effcb8c" version="1">Bend Air: Pull</content>
+	<content contentuid="h1d8da004g092bg466agafb5gaa1e2054aadb" version="1">Bend the wind surrounding a target area to pull creatures and objects toward you.</content>
+	<content contentuid="h8c5b3d0dgd20eg40b2gb874gc9e3f62fc95a" version="2">Bend Air: Cloak</content>
+	<content contentuid="h5c33939eg803fg4a97gacfegaad8b34dc787" version="5">Bend the air around a creature and turn them &lt;LSTag Type="Status" Tooltip="MES_CLOAK"&gt;Invisible&lt;/LSTag&gt; for [1] turns. Attacks against it have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; and it attacks with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hdef58199g01f4g4827g800fga8e113c0fee1" version="4">Invisible</content>
+	<content contentuid="hce84f136g75b6g404bg8d1eg9786f5620308" version="5">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and imposes &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on enemy Attack Rolls. &lt;br&gt;&lt;Br&gt;Invisibility ends early if the invisible entity takes damage.</content>
+<!--EarthAbilities-->
+	<content contentuid="h0aec29e0g5d62g42d4g9322geb2409da077f" version="2">Elemental Bending: Earth</content>
+	<content contentuid="hb03ea86ag49d5g4e2dgb68cgbf1a9621e401" version="2">Bend the element of Earth to cast &lt;LSTag Type="Spell" Tooltip="Target_MES_LavaSurface"&gt;Create Lava&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_MES_EarthStomp"&gt;Roar of Gaia&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="MES_StoneWall"&gt;Wall of Stone&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_MES_MetalSkin"&gt;Metal Skin&lt;/LSTag&gt;.</content>
+	<content contentuid="heaf691e3gc9d3g4fb7g8b71g51d85241ea57" version="2">Bend Earth: Metal Skin</content>
+	<content contentuid="hda509229g9acbg4046g87b8ga284b04c3947" version="4">Harden earth into metal and coat a target with it, increasing their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [1] for [2] turns.</content>
+	<content contentuid="h44861c45g13bag420fgbe5egac95d7a23700" version="2">Metal Skin</content>
+	<content contentuid="hfc88de03g2b57g4287gb888gc185bd152d38" version="3">The &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; of this entity is increased by [1].</content>
+	<content contentuid="h1cd88526g8098g4f65gb685g53b64147fdf0" version="2">Bend Earth: Wall of Stone</content>
+	<content contentuid="h4ff693c5gb078g4a64gbfe1gce408ccc6b75" version="2">Raise a wall of solid stone.</content>
+	<content contentuid="hbf89deaeg6b36g4ef4g83ccgc096bcc55c25" version="1">Bend Earth: Roar of Gaia</content>
+	<content contentuid="hcfdf56bdg2f99g4fefgb665gdfcfb7ed6553" version="1">Strike the earth with a heavy blow to overwhelm nearby creatures and possibly knock them off balance. For [1] turns you can bend the trembling earth to erupt again in a target area.</content>
+	<content contentuid="h474f5c1fg7a31g483fg9fb7g4064b47f1316" version="1">Roar of Gaia: Aftershock</content>
+	<content contentuid="h74d3d879g1902g4a72g92fag518b82feacbc" version="1">Erupt the earth in a target area you can see.</content>
+<!--WaterAbilities-->
+	<content contentuid="hb8d70ea1g623ag4414g9f57g3801d4c46467" version="2">Elemental Bending: Water</content>
+	<content contentuid="h62e2098eg457cg4ce8g8a83g064fb19ca7c0" version="2">Bend the element of Water to cast &lt;LSTag Type="Spell" Tooltip="Target_HealingWater"&gt;Heal&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_CuringWater"&gt;Cure&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_MES_Bleed"&gt;Languish of Ichor&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_MES_ColdSurface"&gt;Freeze&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_MES_WaterCreate"&gt;Create Water&lt;/LSTag&gt;.</content>
+	<content contentuid="ha0053dcbg1e90g43aag9e70g0239f5e74897" version="1">Bend Water: Heal</content>
+	<content contentuid="h8b4bf53dg25dag472cga1c2g970a8ab73e83" version="1">Direct ki externally to accelerate healing.</content>
+	<content contentuid="h49e95075gb09eg4ba0g8b7cg8ad5cdf21fcd" version="1">Bend Water: Cure</content>
+	<content contentuid="h542f4ca3g0b89g4b73ga9b0g21c140d6eafd" version="1">Direct ki internally to alleviate illness and disease.</content>
+	<content contentuid="h1b299132gb454g4fc0g9f65g9364b12b8f0f" version="1">Forbidden Art: Languish of Ichor</content>
+	<content contentuid="h33b995d7g2395g445fg9eecg8d87ea93d26e" version="1">Rip through the veins of up to 3 creatures, causing them to &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt; for [1] turns.</content>
+<!--Alter Elements-->
+	<content contentuid="ha0a180c7g6733g464fg91e5g9ecc2e75d2ca" version="2">Elemental Bending: Fire</content>
+	<content contentuid="h547b950dg33d4g44edg9dd1g70d2e2c51382" version="2">Bend the element of Fire to cast &lt;LSTag Type="Spell" Tooltip="Shout_MES_FlameBlade"&gt;Flameblade&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_MES_FireShield"&gt;Fireshield&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_MES_Ignite"&gt;Ignite&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Projectile_MES_Explode"&gt;Sphere of Destruction&lt;/LSTag&gt;.</content>
+	<content contentuid="h35b0189fga230g4720g81b0gcab7a64f2a85" version="2">Bend Fire: Flameblade</content>
+	<content contentuid="hc993cc96g1b6cg4d1dg95f4gfc96977a2292" version="2">Create an enchanted blade of fire that can be equipped.</content>
+	<content contentuid="ha9dd251cgde3cg4da4g8e31g4b952b9c8917" version="2">Bend Fire: Fireshield</content>
+	<content contentuid="hc993cc96g1b6cg4d1dg95f4gfc96977a2292" version="2">Create an enchanted blade of fire that can be equipped.</content>
+	<content contentuid="h5bca1f59g8b40g4445g8823ga413499a1bf2" version="2">Bend Fire: Ignite</content>
+	<content contentuid="h70770527g43f1g45b9g83d3g0284aee30450" version="2">&lt;LSTag Type="Status" Tooltip="BURNING_MES"&gt;Scorch&lt;/LSTag&gt; a target within range.</content>
+	<content contentuid="hc2235845gba95g41feg8028g661bee5d19ea" version="2">Bend Fire: Sphere of Destruction</content>
+	<content contentuid="hf2ae52cdg71d4g4b87gb30fg372ef283d236" version="2">Lob a sphere of volatile flames. If any targets in the area are &lt;LSTag Type="Status" Tooltip="BURNING_MES"&gt;Scorched&lt;/LSTag&gt;, they will explode for [1].</content>
+	<content contentuid="hc5207941g5e01g428fgb070g50ac80278242" version="2">Bend Water: Freeze</content>
+	<content contentuid="hae1a2062g7d09g4a05g97e2g88ba1f1742c5" version="2">Freeze the area and create an ice surface in a [1] radius.</content>
+	<content contentuid="hdd576656gcc78g4ff5gad84gb82f2b057a2e" version="2">Bend Earth: Create Lava</content>
+	<content contentuid="h8b5d194agdb9eg4660ga4f0g7431a1bc671d" version="2">Churn the molten earth to create a lava surface in a [1] radius.</content>
+	<content contentuid="h302c6524g3eecg40dfgb447g65f64797e289" version="2">Bend Air: Stormcloud</content>
+	<content contentuid="hf93778cag9a02g4c6dg8896gd6fb526b2b4c" version="2">Charge the air with lightning to create an electrified cloud in a [1] radius.</content>
+	<content contentuid="h868d0483g4951g42d8g97d4g23f9ddb517bb" version="2">Bend Air: Fog</content>
+	<content contentuid="h14dd4f25g1bb3g4df1ga1fag6862af404be1" version="2">Bend the air to mask the area with a fog cloud in a [1] radius.</content>
+	<content contentuid="ha100b8ecga2dag4613g8490g19655a9b8cdc" version="2">Lightning Step</content>
+	<content contentuid="h165097f9g85b8g44f2gabf3g2d31669afbc4" version="2">Warp to an area and electrify your surroundings.</content>
+
+<!--AttunementSpells-->
+	<content contentuid="h119a9d6fgcdceg406eg87a0g77f05e16c29f" version="2">Attuned Spells</content>
+	<content contentuid="hde147e33gb37dg41dcg8d83ga08f07e2530f" version="2">Channel raw elemental energy to cast &lt;LSTag Type="Spell" Tooltip="Target_MES_FlameStrike"&gt;Fierce Flame&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Zone_MES_ConeOfCold"&gt;Roaring Rime&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_MES_CallLightning"&gt;Lingering Lightning&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Zone_MES_ThunderBolt"&gt;Terrifying Thunder&lt;/LSTag&gt;.</content>
+	<content contentuid="habcc8807gd198g43f4g82a5g23c3807dcf3c" version="2">Fierce Flame</content>
+	<content contentuid="h1b89e323g2e14g41a1g9bd4gd57ffb05c75c" version="2">Ignite the air causing it to flare and combust in a pillar of flame, leaving scorched terrain in the target area for 3 turns.</content>
+	<content contentuid="he2b70377g597dg4af8g9903g083a887aaf9b" version="2">Roaring Rime</content>
+	<content contentuid="h87c15f0egbd96g495cg8741g6dfc0aa919c1" version="2">Emit a freezing torrent of ice, &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; targets undergo rapid cooling and become &lt;LSTag Type="Status" Tooltip="BRITTLE"&gt;Brittle&lt;/LSTag&gt;.</content>
+	<content contentuid="h3403b73ag0b0cg4e8bg8eb3g95c1bdabbe19" version="2">Lingering Lightning</content>
+	<content contentuid="h03f9897bge7aag447cg8d8ag1f351c333542" version="2">Lightning strikes all targets within range, &lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;Electrocuting&lt;/LSTag&gt; them.</content>
+	<content contentuid="h8de7c227gc66eg411egafcdg2acfc0d4b1d8" version="2">Terrifying Thunder</content>
+	<content contentuid="h64e5a685g7c0eg412ag951dge970920bd2b3" version="2">Unleash a tempest from your hands, ripping through the air and pushing back foes, inflicting them with &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Fear&lt;/LSTag&gt;.</content>
+<!--CustomStatuses-->
+	<content contentuid="h4ba3e456g7ba2g4dd3ga90bg51066d78f37e" version="2">Soulfire</content>
+	<content contentuid="h5bf38002g6a11g45dbgb0fbg26a5b94e9e9e" version="4">When you deal Fire damage, the target must succeed a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or begin &lt;LSTag Type="Status" Tooltip="BURNING_SOULFIRE"&gt;Burning&lt;/LSTag&gt;.</content>
+	<content contentuid="hd2db9cbfg0e7eg4642g9823g8aa843188b69" version="2">Electrify</content>
+	<content contentuid="hfed55645gc704g468fgab4bgb6bad1b3c9dd" version="4">When you deal Lightning damage, the target must succeed a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;Electrocuted&lt;/LSTag&gt;.</content>
+	<content contentuid="h58291454g6936g4af2g818bgffafb55ae0ac" version="2">Maelstrom</content>
+	<content contentuid="hed926e91g2891g4dffgbb88g264901e98bc4" version="4">When you deal Thunder damage, the target must succeed a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberated&lt;/LSTag&gt;.</content>
+	<content contentuid="h548db0c5g6be5g4794g9fe1g2cba1c6c5037" version="2">Soulburn</content>
+	<content contentuid="h58b1b69cgb1acg4786ga172gbf6779b5a6bc" version="4">Affected entity will burn for [1] at the start of each turn.</content>
+	<content contentuid="h1921f17bgc60fg4e19g85c8g6b75b2d6b58c" version="2">Scorched</content>
+	<content contentuid="h477d1012g2c92g40b0g9ff4g7c71c863f66b" version="4">Affected entity is being scorched for [1] at the start of each turn.</content>
+	<content contentuid="h2e1f9256g53b2g48e0g8628g6a1310c2c5f3" version="2">Abyssal Frost</content>
+	<content contentuid="hf6f15dabgc6b4g4f72gacdcg0afad1069027" version="4">Affected entity will freeze for [1] at the end of each turn, and its movement speed is halved.</content>
+	<content contentuid="heb6e2774g9957g46a4g891fg4c9eb8a8b462" version="2">Hoarfrost</content>
+	<content contentuid="hfa58d53bg791bg4c20gb451g79cd7e481348" version="4">When you deal Cold damage, the target must succeed a Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Frosted&lt;/LSTag&gt;.</content>
+
+<!--FeatData-->
+  	<content contentuid="h21092c38g4bb4g4affg9eddg6fa80f088678" version="1">Avatar of the Four Elements</content>
+  	<content contentuid="h229808b7g2620g48b5g86b1gd966c9ce7540" version="1">You unlock your latent potential and become one with the elements. Gain the ability to &lt;LSTag Type="Spell" Tooltip="Shout_MES_Invoke"&gt;Invoke&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_MES_Attune"&gt;Attune&lt;/LSTag&gt; and enter the &lt;LSTag Type="Spell" Tooltip="Shout_MES_Avatar"&gt;Avatar State&lt;/LSTag&gt; when in danger. </content>
+  	<content contentuid="h68bd4e8dgdf8dg4160g9fa8g79613b2d5290" version="1">Altered Balance</content>
+  	<content contentuid="h45d972ebgf413g4e48g9fb8g89394769e023" version="1">You are overflowing with elemental Ki and gain the understanding to channel it. Gain [1] &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt;.</content>
+  	<content contentuid="h1189b3ecgbb46g4d00gb77cgf9c202b99023" version="1">Unleashed Mind</content>
+  	<content contentuid="h9aab6ce5g3aaag4824g9373g35376892a82f" version="1">Your connection to magic is unique and grants your mind clarity when spellcasting. Gain [1] level [2] &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slots&lt;/LSTag&gt;.</content>
+	<content contentuid="h9ae1adf6g9ffeg48b2g9376g336fd01c325f" version="1">Prodigious Arrogance</content>
+  	<content contentuid="h021b2766g684eg405ag8c92g7e1441db393d" version="1">Your powers do not need to be earned, simply used. Gain [1] Sorcery Points.</content>
+  	<content contentuid="h728cbed9g4907g4018ga1e2ga38323bf535c" version="1">Pain and Gain</content>
+  	<content contentuid="he2f2df8bg7fd4g48c9ga2f2g319a1693813b" version="1">You take hits like you were meant for them, brushing off blades and bolts like they could never hurt you. Heal for [1] when you take physical damage.</content>
+	<content contentuid="hdbd0fb9fg56f3g44fbgba90g75163dec3b51" version="1">Patient Silence</content>
+  	<content contentuid="hff890902ge36bg4671gb5d3g85e90171e394" version="1">Your steps are light, your movement is shadow. Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt; checks.</content>
+	<content contentuid="h5619679age2e3g40f3gad0fg6176ec38021f" version="1">Dauntless Devotion</content>
+  	<content contentuid="h9166fa40ga184g4262g8f62g7b29d4e405ab" version="1">Your oath is everything to you, for good or for ill. Gain [1] &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Channel Oath Charges&lt;/LSTag&gt;.</content>
+	<content contentuid="h63ad2ad5ga807g433bg9f14gef384c62b3f8" version="1">Zealous Faith</content>
+  	<content contentuid="hd1d3052ege751g4a9egb661ga1aeffd42185" version="1">Your deity rewards your faith. Gain [1] &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity Charges&lt;/LSTag&gt;.</content>
+	<content contentuid="h32ebfafeg7050g473dgaee7g688c1818a0c7" version="1">Expert Training</content>
+  	<content contentuid="hfd9a740dgd06cg468cg9c40g0a48c89e3a76" version="1">Martial techniques have become effortless for you from rigourous training. Gain [1] &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Superiority Die&lt;/LSTag&gt;.</content>
+	<content contentuid="h2fd32837ge3cag4e27gadccgcf81fae17131" version="1">Enlightenment</content>
+  	<content contentuid="h777a4c8ag6034g411fg96cdg5d7bebdac338" version="1">Few strive for such balance. Fewer still achieve it. Increase all &lt;LSTag Tooltip="Abilities"&gt;Ability Scores&lt;/LSTag&gt; by 1.</content>
+	<content contentuid="h1fb6df94gf8d8g4b34g857fg47aef50bc6bb" version="1">Mastery of the Four Elements</content>
+  	<content contentuid="h6d0103f8gbe4ag4a43g9365g07ad0a688495" version="1">You unlock the full potential of an elemental &lt;LSTag Type="Spell" Tooltip="Shout_MES_Invoke"&gt;Invocation&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_MES_Attune"&gt;Attunement&lt;/LSTag&gt;, extending their durations until long rest. Each element permanently increases an &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt; by 1, and grants you &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in a &lt;LSTag Tooltip="Skill"&gt;Skill&lt;/LSTag&gt;.</content>
+  	<content contentuid="h5a3d6472g9e00g4f91g9c8dg33e6f123ca7d" version="1">Mastery of Fire</content>
+  	<content contentuid="h521ff26ag5ab5g4595g8663gab7da22ef6c6" version="1">Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increases by 1 and you gain &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt;. After &lt;LSTag Type="Spell" Tooltip="Shout_MES_InvokeFire"&gt;Invoking Fire&lt;/LSTag&gt;, you may &lt;LSTag Type="Spell" Tooltip="Shout_MES_Attune"&gt;Attune&lt;/LSTag&gt; to the flame raging within your soul to become an &lt;LSTag Type="Status" Tooltip="AVATARSTATEFIRE"&gt;Avatar of Fire&lt;/LSTag&gt; until your next long rest.</content>
+  	<content contentuid="h61f1fb84g2383g4567gae8eg29496877c635" version="1">Mastery of Frost</content>
+  	<content contentuid="h37eea6dbg1ef0g49a5g8c09gfbe524b07b93" version="1">Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; increases by 1 and you gain &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;. After &lt;LSTag Type="Spell" Tooltip="Shout_MES_InvokeCold"&gt;Invoking Cold&lt;/LSTag&gt;, you may &lt;LSTag Type="Spell" Tooltip="Shout_MES_Attune"&gt;Attune&lt;/LSTag&gt; to the frosted air around you to become an &lt;LSTag Type="Status" Tooltip="AVATARSTATECOLD"&gt;Avatar of Cold&lt;/LSTag&gt; until your next long rest.</content>
+  	<content contentuid="hfbaced12g7b8ag4995g8135gc2e01b58978e" version="1">Mastery of Lightning</content>
+  	<content contentuid="hf3bacbf1g6b62g4982g80b0g01294e5efba4" version="1">Your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1 and you gain &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt;. After &lt;LSTag Type="Spell" Tooltip="Shout_MES_InvokeLightning"&gt;Invoking Lightning&lt;/LSTag&gt;, you may &lt;LSTag Type="Spell" Tooltip="Shout_MES_Attune"&gt;Attune&lt;/LSTag&gt; to the lightning coursing through your veins to become an &lt;LSTag Type="Status" Tooltip="AVATARSTATELIGHTNING"&gt;Avatar of Lightning&lt;/LSTag&gt; until your next long rest.</content>
+  	<content contentuid="he57c4019gf951g466dg8807g7bf91beb2e8c" version="1">Mastery of Thunder</content>
+  	<content contentuid="h39bf138eg844eg4ad7g9b8bgd376901deb3b" version="1">Your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; increases by 1 and you gain &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;. After &lt;LSTag Type="Spell" Tooltip="Shout_MES_InvokeThunder"&gt;Invoking Thunder&lt;/LSTag&gt;, you may &lt;LSTag Type="Spell" Tooltip="Shout_MES_Attune"&gt;Attune&lt;/LSTag&gt; to the winds surrounding your body to become an &lt;LSTag Type="Status" Tooltip="AVATARSTATETHUNDER"&gt;Avatar of Thunder&lt;/LSTag&gt; until your next long rest.</content>
+<!---->
+	<content contentuid="hce1994deg6754g4b1bg9fbeg85a4ccc77157" version="2">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Unlock these powerful spells by entering the &lt;LSTag Type="Shout" Tooltip="Shout_MES_Avatar"&gt;Avatar State&lt;/LSTag&gt;.</content>
+	<content contentuid="h2ccd7504gf4dbg4e2cgbd4fgf2add0a12817" version="2">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Unlock these spells by &lt;LSTag Type="Spell" Tooltip="Shout_MES_Attune"&gt;Attuning&lt;/LSTag&gt; to an element.</content>
+	<content contentuid="h25a1c4f1gabd0g403ag9e37g85f82693fe81" version="2">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Unlock these spells by &lt;LSTag Type="Spell" Tooltip="Shout_MES_Invoke"&gt;Invoking&lt;/LSTag&gt; an element.</content>
+<!--VisualStatusBoostDisplayName-->
+	<content contentuid="h7f1b2cafgf29fg4886g81eeg42a48387719c" version="1">VisualAura</content>
+	<content contentuid="hd63daf24g08cbg458dg8532gc41df629c501" version="1">Toggles the molten body and fire particles vfx.</content>
+	<content contentuid="h45c4f9cegceb8g42a8gbaf3g0f862b6ba533" version="1">Toggles the frost patches vfx.</content>
+	<content contentuid="hc99ebcd0gdb76g49c5g919fge994a5103f2d" version="1">Toggles the electrical noise vfx.</content>
+	<content contentuid="hf12589adga827g4c2ag8ca7g726c3b8cdb06" version="1">Toggles the windy feet vfx.</content>
+</contentList>
